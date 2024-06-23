@@ -12,6 +12,7 @@ AWS 프리티어의 제한 사항을 고려하여 Flask, Spring Boot, Elasticsea
 
 
 ✅프로젝트 상세 정보 - 노션
+https://www.notion.so/cinepic-da06b8c802584538a6d9d91894e0dfb0
 
 
 ### ⏰ 개발기간
